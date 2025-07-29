@@ -1,4 +1,4 @@
-<!-- Macos like icons -->
+
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
